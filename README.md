@@ -2,7 +2,8 @@
 
 ## Sections
 - [x] 01. Introduction to LINQ | LINQ tutorial for beginners #01
-- [x] 02. IQueryable vs IEnumerable | LINQ tutorial for beginners #02
+- [x] 02. IEnumerable vs IQueryable | LINQ tutorial for beginners #02
+- [x] 03- C# Extension Methods | LINQ tutorial for beginners #03
 
 
 ## Ongoings
@@ -12,10 +13,12 @@
 
 ## Covered Topics
 - [x] What is LINQ
-- [x] IQueryable<T> vs IEnumerable<T>
+- [x] IEnumerable<T> vs IQueryable<T>
+- [x] C# Extension Methods
 
 
 
 ## Usefull Links
-- [https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-8.0](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-8.0)
-- [https://learn.microsoft.com/en-us/dotnet/api/system.linq.iqueryable-1?view=net-8.0](https://learn.microsoft.com/en-us/dotnet/api/system.linq.iqueryable-1?view=net-8.0)
+- [IEnumerable Docs | Microsoft](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-8.0)
+- [IQueryable Docs | Microsoft](https://learn.microsoft.com/en-us/dotnet/api/system.linq.iqueryable-1?view=net-8.0)
+- [Extension Methods Docs | Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
