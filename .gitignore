@@ -11,5 +11,13 @@ bin
 **/data-mssql
 *.user
 *.csproj.user
+.idea
 
 ~$Doc.docx
+
+*.jpg
+*.jpeg
+*.png
+*.svg
+*.pdf
+*.word

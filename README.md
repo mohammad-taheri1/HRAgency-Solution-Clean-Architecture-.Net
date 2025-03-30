@@ -1,27 +1,31 @@
-# LINQ tutorial for beginners
+# HRAgency Solution with Clean Architecture in .Net 9
 
 ## Lessons
 
-- [x] 1.  Introduction to LINQ | LINQ tutorial for beginners #01
-- [x] 2.  IEnumerable vs IQueryable | LINQ tutorial for beginners #02
-- [x] 3.  C# Extension Methods | LINQ tutorial for beginners #03
-- [x] 4.  LINQ Queries Syntax and Operators| LINQ tutorial for beginners #04
-- [x] 5.  Standard Query Operators | LINQ tutorial for beginners #05
+- [x] 0.  Introduction - HRAgency Solution with Clean Architecture in .Net 9 Part00
+- [ ] 1.  Folders Structure and Layers implementation | HRAgency in .Net 9
 
-## Ongoings
+## Important Topics (will be covered)
 
-<!-- - [ ] 0?.  | LINQ tutorial for beginners #0? -->
+- [x] Clean Architecture Overall Concept
+- [x] Folders Structure and Layers implementation
+- [ ] Feature-based development and foldering
+- [ ] Handle Microsoft Identity
+- [ ] Handle DI in a solution with multiple projects
+- [ ] Mediator design pattern
+- [ ] CQRS with the MediatR package
+- [ ] EF Core
+- [ ] Microsoft SQL Server
+- [ ] Factory design pattern
+- [ ] Repository pattern
+- [ ] Result pattern
+- [ ] Connection Pooling
+- [ ] Logging (Serilog -> Console + File + Database)
+- [ ] Rate Limiting
 
-## Covered Topics
+## Used Libraries
 
-- [x] What is LINQ
-- [x] IEnumerable<T> vs IQueryable<T>
-- [x] C# Extension Methods
-- [x] Standard Query Operators
-- [x] Syntax of LINQ Queries
-- [x] LINQ Query Expression Syntax
-- [x] LINQ Method Extension Syntax or Fluent
-- [x] Standard Query Operators Classification
+- [ ]
 
 ## Usefull Links
 
